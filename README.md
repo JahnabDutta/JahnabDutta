@@ -20,7 +20,7 @@
 
 Here's a few things about me:
 
-- 🔭 I’m currently working on <a href="github.com/coronasafe/care_fe">CARE</a>
+- 🔭 I’m currently working on <a href="https://github.com/coronasafe/care_fe">CARE</a>
 - 🌱 I’m currently learning **Typescript** and **Express JS**
 - 💬 Ask me about **Django** and **DBMS**
 - Interested in learning about **Devops** and **CyberSecurity**
