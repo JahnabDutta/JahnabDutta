@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/jahnab-dutta/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto: dutta.4@iitj.ac.in">
+  <a href="mailto:dutta.4@iitj.ac.in">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
   </a>
   </p>
